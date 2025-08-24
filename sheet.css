@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+body {
+  background-color: black;
+}
+.nav-1 {
+    position: relative;
+    .pos-1{
+        width: 129px;
+height: 129px;
+position: absolute;
+border-radius: 50%;
+top: 461px;
+left: 636px;
+border: 1px solid white;
+
+    }
+  h3 {
+    font-family: Space Grotesk;
+    font-weight: 700;
+    font-size: 32px;
+
+    line-height: 32px;
+    letter-spacing: -0.44px;
+    color: #ffffff;
+  }
+
+  .left {
+       .hh5{
+        font-family: Space Grotesk;
+font-weight: 700;
+font-size: 16px;
+color: rgb(78, 225, 160);
+cursor: pointer;
+line-height: 26px;
+letter-spacing: 2.29px;
+padding-top: 66px;
+      }
+    .inner {
+      
+      width: 445px;
+      height: 84px;
+      p {
+        font-family: Space Grotesk;
+        font-weight: 500;
+        font-style: Medium;
+        font-size: 18px;
+        color: #d9d9d9;
+        margin-top: 43px;
+        line-height: 28px;
+        letter-spacing: 0px;
+      }
+    }
+    margin-top: 65px;
+    
+
+    h1 {
+      font-family: Space Grotesk;
+      font-weight: 700;
+      font-style: Bold;
+      font-size: 88px;
+
+      line-height: 88px;
+      letter-spacing: -2.5px;
+      color: white;
+      span{
+        border-bottom: solid 6px  #4EE1A0;
+
+      }
+     
+    }
+  }
+  .right{
+    width: 445px;
+height: 720px;
+    left: 695px;
+        top: -1rem;
+        z-index: -1;
+        background-color:  #242424;
+
+.im-1
+    {
+        width: 444.8760681152344px;
+/* height: 618px; */
+
+
+  
+    }
+    .inner-2{
+        padding-top: 43px;
+        padding-bottom: 29.51px;
+    
+    }
+  }
+
+  
+}
+.hero{
+    width: 100%;
+    padding-top: 72px;
+    margin-top: 300px;
+    border-top: 1px solid white;
+    position: relative;
+    .in-1
+    {
+        width: 345px;
+        h4{
+            font-family: Space Grotesk;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+color: white;
+line-height: 56px;
+letter-spacing: -1.5px;
+
+        }
+        p{
+            font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 18px;
+color: gray;
+line-height: 28px;
+letter-spacing: 0px;
+
+        }
+    }
+    .pos-2{
+        width: 530;
+height: 129;
+
+opacity: 0.5;
+
+left: 950px;
+position: absolute;
+top: 220px;
+z-index: 5;
+    }
+}
