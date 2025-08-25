@@ -136,3 +136,69 @@ top: 220px;
 z-index: 5;
     }
 }
+.sec-1{
+  margin-top: 140px;
+  h2{
+    width: 334px;
+height: 88px;
+color: white;
+font-family: Space Grotesk;
+font-weight: 700;
+font-style: Bold;
+font-size: 88px;
+
+line-height: 88px;
+letter-spacing: -2.5px;
+
+  }
+  .a-1{
+    
+
+
+font-family: Space Grotesk;
+font-weight: 700;
+font-size: 16px;
+color: white;
+line-height: 26px;
+letter-spacing: 2.29px;
+text-decoration: none;
+border-bottom: #4EE1A0 solid 1px;
+  }
+  .big-1{
+    margin-top: 80px;
+   .card-body{
+    width: 47.5%;
+height: 400px;
+
+
+   }
+   .in-2{
+    margin-top: 130px;
+   }
+   .card-footer{
+    width: 225;
+height: 67;
+background-color: black;
+h4{
+  font-family: Space Grotesk;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+color: white;
+line-height: 32px;
+letter-spacing: 0px;
+
+}
+  p{
+    font-family: Space Grotesk;
+font-weight: 500;
+font-style: Medium;
+font-size: 18px;
+color: gray;
+line-height: 28px;
+letter-spacing: 0px;
+
+  }
+   }
+  }
+}
